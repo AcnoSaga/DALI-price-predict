@@ -1,7 +1,7 @@
 # Price Predict
 My Developer Challenge solution for Winter 2024
 
-## A PyTorch-based machine learning tool to predict the approximate price of a product given its details
+## A PyTorch-based machine learning tool to optimize a neural network for prediction of the approximate profit of a product given its details
 
 Hello guys! I'm Aamish, a '26 who's looking to join the dev team at DALI, and this is a project in which I analyse the `Sample - Superstore.csv` dataset provided for the DALI Challenges and train a machine learning model (a neural network in our case) to predict the price of a product given its details.
 
